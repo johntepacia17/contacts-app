@@ -1,0 +1,6 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+/* small extras */
+.table td { vertical-align: middle; }
+.card { border-radius: 12px; }
+.table thead th { font-weight: 600; }
