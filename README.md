@@ -63,8 +63,8 @@ SETUP INSTRUCTIONS
 --------------------------------------------------
 
 1. Clone repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/johntepacia17/contacts-app.git
+cd contacts-app
 
 2. Install PHP dependencies
 composer install
